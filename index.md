@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Code 201
+## Reading Notes
+### This contains all my reading journals
 
-You can use the [editor on GitHub](https://github.com/Tekthree/tekthree.github.io-reading-notes-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Im about that Growth Mindset
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Remember Failure is an opportunity to grow"
 
-### Markdown
+2. A mind that is stretched by a new experience can never go back to its old dimensions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. My effort and attitude determine my abilities.
 
-```markdown
-Syntax highlighted code block
+~~Give Up~~
 
-# Header 1
-## Header 2
-### Header 3
+[My Graphic Design Portfolio](https://ghostboyjones.com/)
 
-- Bulleted
-- List
+[My linked in profile](https://www.linkedin.com/in/tek-jones-54b39562/)
 
-1. Numbered
-2. List
+[My linked in profile](https://www.behance.net/GHOSTBOYJONES)
 
-**Bold** and _Italic_ and `Code` text
+| Never  | give  | up  | on  | tables  |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tekthree/tekthree.github.io-reading-notes-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Table of Contents
