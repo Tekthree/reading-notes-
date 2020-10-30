@@ -35,5 +35,12 @@
 
 - https://medium.muz.li/responsive-grid-design-ultimate-guide-7aa41ca7892
 
+- Floating elements all you to take it out of the flow and position it to the far left of right of a containing box.
 
-I will be coming back to finish my reading notes after class today 😊
+- When you move any element out of normal flow, boxes overlap. To control which box appears on top use the z-index
+
+- relative positioning move a element from where it would be in normal flow.
+
+- 
+
+
