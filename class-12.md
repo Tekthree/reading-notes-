@@ -15,10 +15,10 @@
 
 ```var buyers = document.getElementById('buyers').getContext('2d');
     new Chart(buyers).Line(buyerData); ```
-    
+ ```    
  - create the data with an object that contains labels for the base of the chart
  
- ```
+```
  var buyerData = {
                 labels : ["January","February","March","April","May","June"],
                 datasets : [
