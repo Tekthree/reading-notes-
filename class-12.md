@@ -84,7 +84,7 @@
             // draw bar chart
             new Chart(income).Bar(barData);
             
-            ```
+```
 ## Canvas Api Usage
  
 - canvas lookis like the img element but without src and alt attributes. 
