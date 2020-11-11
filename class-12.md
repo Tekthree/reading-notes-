@@ -165,3 +165,49 @@ function draw() {
 
 ```
 
+## Colors and Styles
+
+- Use fillstyle and strokestyle to apply colors to a shape
+```
+ctx.fillStyle = 'orange';
+ctx.fillStyle = '#FFA500';
+ctx.fillStyle = 'rgb(255, 165, 0)';
+ctx.fillStyle = 'rgba(255, 165, 0, 1)';
+```
+
+-  adding transparency by setting the globalalpha or by assigning a semi-transparent color to the stroke and or fill style.
+
+- the values are 0.0 is fully transparent to 1.0 which is fully opaque.
+
+- properties for line styles
+
+```
+lineWidth = value
+Sets the width of lines drawn in the future.
+
+lineCap = type
+Sets the appearance of the ends of lines.
+
+lineJoin = type
+Sets the appearance of the "corners" where lines meet.
+
+miterLimit = value
+Establishes a limit on the miter when two lines join at a sharp angle, to let you control how thick the junction becomes.
+
+getLineDash()
+Returns the current line dash pattern array containing an even number of non-negative numbers.
+
+setLineDash(segments)
+Sets the current line dash pattern.
+
+lineDashOffset = value
+Specifies where to start a dash array on a line.
+
+```
+
+- Gradients with CanvasGradient object
+
+```
+var lineargradient = ctx.createLinearGradient(0, 0, 150, 150);
+var radialgradient = ctx.createRadialGradient(75, 75, 0, 75, 75, 100);
+```
